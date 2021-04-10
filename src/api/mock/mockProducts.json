@@ -1,0 +1,63 @@
+{
+  "topProducts": [
+    {
+      "id": "1",
+      "imageUrl": "https://tinyurl.com/y3w8oaah"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://tinyurl.com/y4vaulog"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://tinyurl.com/y3j7rq6g"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://tinyurl.com/y28jpmyr"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://tinyurl.com/y2w7fbdo"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://tinyurl.com/yy2f6lha"
+    }
+  ],
+  "collections": [
+    {
+      "id": "1",
+      "name": "T-Shirts",
+      "imageUrl": "https://tinyurl.com/y4f5e96j",
+      "off": "Min 50% off"
+    },
+    {
+      "id": "2",
+      "name": "Shirts",
+      "imageUrl": "https://tinyurl.com/y2szwrys",
+      "off": "Min 50% off"
+    },
+    {
+      "id": "3",
+      "name": "Women's Clothing",
+      "imageUrl": "https://tinyurl.com/y2yhf95n",
+      "off": "Min 50% off"
+    },
+    {
+      "id": "4",
+      "name": "Sarees",
+      "imageUrl": "https://tinyurl.com/yxupqdll",
+      "off": "Min 50% off"
+    }
+  ],
+  "banner": [
+    "https://tinyurl.com/y379jw6s",
+    "https://tinyurl.com/y3pjtea4",
+    "https://tinyurl.com/y2gersqn",
+    "https://tinyurl.com/y3c6ksu5",
+    "https://tinyurl.com/y4k2klen",
+    "https://tinyurl.com/y3pccdrc",
+    "https://tinyurl.com/y26fn9rm"
+  ]
+}

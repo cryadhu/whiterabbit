@@ -1,0 +1,8 @@
+{
+  "serverError": {
+    "defaultError": "Something went wrong, Please try again"
+  },
+  "collections": {
+    "discount": "Discounts for you"
+  }
+}
